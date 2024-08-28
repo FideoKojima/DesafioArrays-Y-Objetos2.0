@@ -1,10 +1,10 @@
-# Desafio Guiado - Uso Basico de Array y Objetos
+# Desafío Guiado - Uso Básico de Arrays y Objetos
 
-[Enlace directo al proyecto](https://uso-basico-de-arrays-y-objetos-chi.vercel.app/)
+[Enlace directo al proyecto]()
 
 ## Estadísticas Centro Médico Ñuñoa
 
-Este proyecto muestra la información estadística de las consultas dentales realizadas en el centro médico de Ñuñoa. Utiliza HTML, CSS y JavaScript para desplegar los datos de manera dinámica y responsiva.
+Este proyecto muestra la información estadística de las consultas realizadas en el centro médico de Ñuñoa. Utiliza HTML, CSS y JavaScript para desplegar los datos de manera dinámica y responsiva.
 
 ## Estructura del Proyecto
 
@@ -12,16 +12,10 @@ Este proyecto muestra la información estadística de las consultas dentales rea
 - **style.css**: Archivo de estilos que define la apariencia visual de la página, incluyendo reglas responsivas para dispositivos móviles.
 - **script.js**: Archivo JavaScript que maneja la lógica para mostrar los datos de las consultas en la página.
 
-## Funcionalidades
-
-1. **Mostrar Primera y Última Atención**: Despliega en la página la primera y última atención de cada especialidad, mostrando el nombre del paciente y su previsión.
-2. **Mostrar Datos en Tablas**: Recorre los datos y los presenta en tablas organizadas por especialidad.
-3. **Responsividad**: La página es responsiva, lo que significa que se ajusta bien en diferentes tamaños de pantalla, desde dispositivos móviles hasta pantallas grandes.
-
 ## Cómo Ejecutar el Proyecto
 
 1. Clona este repositorio en tu máquina local.
-2. Asegúrate de que los archivos `index.html` y `script.js` estén en el mismo directorio.
+2. Asegúrate de que los archivos `index.html`, `style.css` y `script.js` estén en el mismo directorio.
 3. Abre el archivo `index.html` en tu navegador preferido.
 
 ## Pruebas de Responsividad
